@@ -7,4 +7,4 @@ Tambem utilizamos na aula a lib pami do marcelog, tambem disponivel no github.<b
 Me encontre nas redes:
 <br /><br />
 Canal do Youtube: https://www.youtube.com/user/giannicodemus <br /<br />
-No instagram: https://www.youtube.com/user/giannicodemus<br /><br />
+No instagram: https://www.instagram.com/gian.nicodemus/<br /><br />

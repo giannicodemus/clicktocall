@@ -3,8 +3,9 @@
 Este código fonte elucida sobre uma video-aula feita no youtube em meu canal (Gian Nicodemus) em como criar um Click to Call, utilizando o Asterisk e a linguagem PHP, usando como base o framework Laravel em sua versão 7.<br /><br />
 Para fazer esta funcionalidade nao era obrigatorio um framework, no entanto o objetivo era fazer uma aula rapida a respeito deste assunto e achei mais pratico a utilizacao do Laravel.<br /><br />
 Tambem utilizamos na aula a lib pami do marcelog, tambem disponivel no github.<br /><br />
+Na pasta asterisk, eu disponibilizei o meu arquivo extensions.conf aonde eu deixei configurado o meu contexto "pabx" que usei na video aula.<br /><br />
 <br /><br />
 Me encontre nas redes:
 <br /><br />
-Canal do Youtube: https://www.youtube.com/user/giannicodemus <br /<br />
+Canal do Youtube: https://www.youtube.com/channel/UCvXzJ8uxgzEEWwzYklqtmeQ <br /<br />
 No instagram: https://www.instagram.com/gian.nicodemus/<br /><br />
